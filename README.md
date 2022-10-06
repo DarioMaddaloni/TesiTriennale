@@ -8,4 +8,4 @@ Tesi_Laurea_Triennale.pdf is the thesis (about 30 pages). It is complete of defi
 propositions, theorems and their corresponding proofs.
 
 Tesi_Laurea_Triennale_Slides.pdf is only a brief presentation of the real thesis.
-It has been thought to be used as an instrument to have a quick idea of the themes.
+It has been thought to be used as an instrument to have a quick idea of what the thesis is about.
